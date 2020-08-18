@@ -1,0 +1,1 @@
+This is a patched [v_next](https://github.com/tamlok/vnote/tree/master/src/resources/themes/v_next) theme for [vnote](https://github.com/tamlok/vnote).
